@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on SIH hackathon<br>I'm currently learning REACT js
+I'm currently working on Smart India Hackathon<br>I'm currently learning REACT js
 
 
 ## 🌐 Socials:
