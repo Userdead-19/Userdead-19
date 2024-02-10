@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Smart India Hackathon<br>I'm currently learning Next js
+A sophomore of PSG College of Technology currently learning Google Cloud Console
 
 
 ## 🌐 Socials:
