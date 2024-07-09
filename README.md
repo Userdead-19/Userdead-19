@@ -48,5 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
 
-[![Userdead-19's GitHub | Dependencies](https://stats.quine.sh/Userdead-19/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Userdead-19)
+<div align="center">[![Userdead-19's GitHub | Dependencies](https://stats.quine.sh/Userdead-19/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Userdead-19)
+</div>
 
