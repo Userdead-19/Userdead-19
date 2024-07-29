@@ -44,8 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
 </div>
 
 [![Userdead-19's GitHub | Topics Over Time](https://stats.quira.sh/Userdead-19/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Userdead-19)
