@@ -47,7 +47,3 @@
 </div>
 
 [![Userdead-19's GitHub | Topics Over Time](https://stats.quira.sh/Userdead-19/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Userdead-19)
-
-
-
-
