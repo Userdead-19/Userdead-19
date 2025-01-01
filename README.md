@@ -1,6 +1,4 @@
-<h4 style="font-family: Arial, sans-serif; font-size: 18px; font-weight: normal; color: #333; text-align: left; line-height: 1.5; margin: 10px 0;">
-  As a Computer Science and Engineering student at PSG College of Technology, you have developed a strong foundation in various programming languages and frameworks, including JavaScript, TypeScript, Python, Android development, C, Express, FastAPI, Git, MongoDB, MySQL, Node.js. Your active engagement on platforms like GitHub and LeetCode reflects your passion for software development and problem-solving. Your personal motto, "Errors make development interesting," highlights your positive approach to tackling challenges in the development process.
-</h4>
+As a **Computer Science and Engineering student** at *PSG College of Technology*, you have developed a strong foundation in various programming languages and frameworks, including **JavaScript**, **TypeScript**, **Python**, **Android development**, **C**, **Express**, **FastAPI**, **Git**, **MongoDB**, **MySQL**, **Node.js**. Your active engagement on platforms like **GitHub** and **LeetCode** reflects your passion for software development and problem-solving. Your personal motto, *"Errors make development interesting,"* highlights your positive approach to tackling challenges in the development process.
 
 ###
 
