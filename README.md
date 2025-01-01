@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abinav and I'm a Computer Science and Engineering Student from PSG College of Technology</h2>
+<h2 align="left">As a Computer Science and Engineering student at PSG College of Technology, you have developed a strong foundation in various programming languages and frameworks, including JavaScript, TypeScript, Python, Android development, C,  Express, FastAPI, Git, MongoDB, MySQL, Node.js Your active engagement on platforms like GitHub and LeetCode reflects your passion for software development and problem-solving. Your personal motto, "Errors make development interesting," highlights your positive approach to tackling challenges in the development process. </h2>
 
 ###
 
