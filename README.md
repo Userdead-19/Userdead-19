@@ -1,20 +1,6 @@
 ## About Me
 
-I am a **Computer Science and Engineering student** at *PSG College of Technology*, with a strong foundation in various programming languages and frameworks:
-
-- **JavaScript**
-- **TypeScript**
-- **Python**
-- **Android development**
-- **C**
-- **Express**
-- **FastAPI**
-- **Git**
-- **MongoDB**
-- **MySQL**
-- **Node.js**
-
-My active engagement on platforms like [GitHub](https://github.com/) and [LeetCode](https://leetcode.com/) reflects my passion for software development and problem-solving. I believe that *"Errors make development interesting,"* which highlights my positive approach to tackling challenges in the development process.
+I am a **Computer Science and Engineering student** at *PSG College of Technology*, with a strong foundation in various programming languages and frameworks.My active engagement on platforms like [GitHub](https://github.com/) and [LeetCode](https://leetcode.com/) reflects my passion for software development and problem-solving. I believe that *"Errors make development interesting,"* which highlights my positive approach to tackling challenges in the development process.
 
 
 ###
